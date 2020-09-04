@@ -9,5 +9,6 @@ namespace BattleRoyalleWindowsService
         public string AntiVirus { get; internal set; }
         public bool Firewall { get; internal set; }
         public string VersaoWindows { get; internal set; }
+        public string VersaoDotNeto { get; internal set; }
     }
 }
